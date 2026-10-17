@@ -1,0 +1,9 @@
+{
+    "name": "Dummy Collection",
+    "description": "Description of collection",
+    "image": "https://image.sdgs",
+    "category": "image",
+    
+    "external_url": "https://blah.com/"
+
+}
