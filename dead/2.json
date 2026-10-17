@@ -1,0 +1,17 @@
+{
+    "name": "Dead Token #2",
+    "description": "Description of token #1. ",
+    "image": "https://image.sdgs?",
+
+    "category": "image",
+    "animation_url": "https://sdfsdgdsg.html",
+
+    "external_url": "https://blah.com/thing/1",
+
+    "attributes": [
+        {
+            "trait_type": "Hat",
+            "value":"Fedora"
+        }
+    ]
+}
