@@ -1,17 +1,1 @@
-{
-    "name": "Dead Token #2",
-    "description": "Description of token #1. ",
-    "image": "https://image.sdgs?",
-
-    "category": "image",
-    "animation_url": "https://sdfsdgdsg.html",
-
-    "external_url": "https://blah.com/thing/1",
-
-    "attributes": [
-        {
-            "trait_type": "Hat",
-            "value":"Fedora"
-        }
-    ]
-}
+{"name":"Dude #2","description":"Description of dude #2. It is dead.","image":"https://anallergytoanalogy.github.io/metadata-test/images/dead/2.png","category":"image","external_url":"https://anallergytoanalogy.github.io/metadata-test/external/2.html","attributes":[{"trait_type":"Alive","value":false}]}

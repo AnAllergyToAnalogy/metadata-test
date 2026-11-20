@@ -1,9 +1,9 @@
 {
     "name": "Dummy Collection Test",
-    "description": "Description of collection",
-    "image": "https://image.sdgs",
+    "description": "Description of dummy collection. You are a dweeb.",
+    "image": "https://anallergytoanalogy.github.io/metadata-test/fish.jpg",
     "category": "image",
     
-    "external_url": "https://blah.com/"
+    "external_url": "https://anallergytoanalogy.github.io/metadata-test/index.html"
 
 }
